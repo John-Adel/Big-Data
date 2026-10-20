@@ -1,0 +1,3 @@
+(Spark is tool for process big data,
+Distributed data,
+AI is important technology)
